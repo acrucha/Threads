@@ -51,10 +51,10 @@ int main()
     {
         pthread_join(thread[k], NULL); //faz com que a main aguarde a conclusao de todas threads
     }
-    pthread_exit(NULL);
     int h;
     for (h = 0; h < n; h++)
     {
         free(id[h]);
     }
+    pthread_exit(NULL); 
 }
