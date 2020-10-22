@@ -1,0 +1,40 @@
+8
+LWF783 Ingazeira    00:25
+5
+SQG715 Oroco        02:25
+3
+MTB948 Tracunhaem   02:45
+7
+FPG132 Sanharo      04:45
+3
+OAM825 Olinda       05:00
+3
+LSP762 Camaragibe   07:45
+3
+MHU190 Igarassu     11:20
+7
+MVW574 Petrolina    11:35
+3
+TLF175 Quixaba      12:15
+9
+HOP324 Betania      14:35
+8
+OWG483 Petrolina    18:20
+2
+NCP169 Capoeiras    19:25
+9
+WAO368 Paulista     19:35
+1
+MRG923 Pesqueira    19:45
+4
+IMT499 Cedro        20:20
+1
+PUP128 Carnaiba     20:35
+9
+YWG469 Goiana       20:45
+9
+OAN880 Verdejante   21:35
+6
+IPV192 Flores       22:15
+6
+NCK204 Saloa        22:20

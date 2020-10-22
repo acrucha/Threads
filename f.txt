@@ -1,0 +1,40 @@
+1
+EFU280 Ouricuri     05:00
+3
+SEM784 Palmares     05:10
+8
+FHJ298 Timbauba     05:15
+6
+TMF466 Cumaru       05:20
+5
+SSA691 Gravata      05:20
+3
+XJU391 Moreilandia  06:35
+5
+MCQ857 Itamaraca    06:40
+6
+GJP786 Machados     07:10
+8
+JUQ851 Agrestina    07:25
+1
+AQP731 Aguas Belas  09:05
+6
+PWB514 Tamandare    09:20
+1
+WYA939 Feira Nova   09:20
+3
+URX916 Triunfo      11:10
+3
+THC810 Custodia     12:15
+9
+LQA245 Agrestina    12:45
+7
+GAA427 Itaiba       13:30
+9
+ULV912 Casinhas     13:35
+2
+PYG301 Ibimirim     14:05
+9
+WRD376 Moreno       15:25
+7
+MHP260 Dormentes    16:45

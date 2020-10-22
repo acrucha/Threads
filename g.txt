@@ -1,0 +1,40 @@
+5
+RLW741 Triunfo      05:20
+9
+DRP271 Paulista     06:45
+3
+OEP280 Cumaru       09:30
+5
+SWN940 Dormentes    09:40
+7
+TIK966 Salgueiro    10:00
+2
+HRS410 Venturosa    11:15
+5
+UHY794 Ipojuca      11:20
+6
+DBI883 Tracunhaem   13:10
+2
+ETY109 Belo Jardim  13:45
+2
+USQ262 Cumaru       14:15
+4
+XDP905 Tacaimbo     14:20
+9
+UKH904 Gravata      14:25
+7
+OIX249 Goiana       14:35
+8
+GSI920 Salgadinho   17:10
+1
+XKQ184 Buenos Aires 17:30
+2
+TLJ276 Agua Preta   19:15
+5
+XPI786 Betania      19:30
+9
+FCI430 Catende      21:15
+2
+QED302 Cumaru       21:20
+1
+TCR587 Bodoco       23:20
