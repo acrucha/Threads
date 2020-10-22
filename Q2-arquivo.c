@@ -16,8 +16,8 @@ int main()
 
     char *nomesArq[n]; //vetor de nomes dos arquivos
 
-    *(nomesArq + 0) = "a.txt";
-    *(nomesArq + 1) = "c.txt";
+    *(nomesArq + 0) = "g.txt";
+    *(nomesArq + 1) = "f.txt";
 
     for (i = 0; i < n; i++)
     {
@@ -39,14 +39,14 @@ int main()
 
             rewind(arquivo);
             int k = 0, qtdViagens = 0;
-            char c, cadeia[2], texto[25], linhas[10]; //anda por cada caractere do arquivo
+            char c, cadeia[2], texto[25], linhas[20]; //anda por cada caractere do arquivo
             //usar str cat pra pegar a primeira posição do array dps (se precisar)
             while ((c = fgetc(arquivo)) != EOF)
             {
                 if (k % 28 == 0)
                 { //quer dizer que eu cheguei em uma nova viagem! é 28 porque conta o os \n + os 25 caracteres do texto
                     linhas[qtdViagens] = c;
-                    qtdViagens++;
+                    qtdViagens++; //sempre aumentando depois que chega uma nova linha
                 }
                 k++;// ta indo pelos caracteres, conta quantos tem
             }
@@ -77,10 +77,3 @@ int main()
 
     return 0;
 }
-
-//             while(fscanf(arquivos[i], "%c\n%s%s%s", &linha, texto1, texto2, texto3) != EOF){
-//                 strcpy(arqViagens[i][k].texto, texto1);
-//                 arqViagens[i][k].linha = linha;
-//                 k++;
-//                 printf("%c\n%s\n", linha, texto1);
-//             }
