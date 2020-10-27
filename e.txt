@@ -1,0 +1,40 @@
+9
+SED222 Jurema       11:45
+1
+DRF856 Abreu e Lima 00:20
+8
+BYX132 Belo Jardim  01:25
+4
+NCS507 Surubim      02:05
+4
+OYC576 Correntes    08:35
+4
+TPM977 Sao Joao     05:00
+3
+NAV890 Inaja        19:45
+5
+VDQ524 Toritama     14:40
+4
+NPQ898 Toritama     07:15
+2
+CGI407 Pocao        04:40
+1
+YVX341 Buenos Aires 02:05
+2
+NPL808 Custodia     21:25
+8
+XKL737 Verdejante   19:25
+9
+GNM666 Santa Cruz   08:35
+6
+MKP441 Serrita      18:25
+2
+GWG356 Jaqueira     04:00
+1
+EAF657 Floresta     16:25
+6
+UNB657 Ipojuca      01:25
+6
+AHR974 Tuparetama   09:30
+9
+NKU243 Aguas Belas  18:10
