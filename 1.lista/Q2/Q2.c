@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <pthread.h>
+#include <time.h>
 
 #define NUM_ARQ 4
 #define NUM_MAX_LINHAS 9
@@ -14,17 +15,28 @@ typedef struct Viagens
 
 Viagens *arqViagens[NUM_ARQ]; //matriz contendo todas as viagens de todos arquivos
 
+char linhas[20];
 char *nomesArq[NUM_ARQ]; //vetor de nomes dos arquivos
 int qtdViagens = 0;
 int l;    //quantidade de linhas
 int t;    //quantidade de threads
 
 static pthread_mutex_t mutex[NUM_MAX_LINHAS] =
-  { P99_DUPL(NUM_MAX_LINHAS, PTHREAD_MUTEX_INITIALIZER) };  // constroi uma lista de mutexes de tamanho NUM_MAX_LINHAS, 
-                                                            // já que teremos 1 mutex para cada linha.
+{ 
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER,
+    PTHREAD_MUTEX_INITIALIZER
+};  // constroi uma lista de mutexes de tamanho NUM_MAX_LINHAS, 
+    // já que teremos 1 mutex para cada linha.
 
 void lerArquivos();
-void threadFunction(void *id);
+void *threadFunction(void *id);
 
 int main()
 {
@@ -49,7 +61,16 @@ int main()
 
     lerArquivos();
 
+
     int i;
+    int k = 0;
+    for (k = 0; k < qtdViagens; k++)
+    {
+        arqViagens[i][k].linha = linhas[k];
+        printf("%c\n", arqViagens[i][k].linha);
+        printf("%s", arqViagens[i][k].texto);
+    }
+    
     pthread_t threads[t]; //eu crio um array com a quantidade de threads que eu quero
     int *id[t];
     int rc;
@@ -58,54 +79,63 @@ int main()
         id[i] = (int *)malloc(sizeof(int)); //pra cada posição, eu aloco
         *id[i] = i;
         printf("Na main: criando thread %d\n", i);
-        rc = pthread_create(&threads[t], NULL, threadFunction, (void *)id[t]); //aqui o argumento da função é justamente aquele valr q eu dei
+        //printf("linha teste = %c\n", arqViagens[0][0].linha);
+        sleep(1);
+        //system("clear");
+        rc = pthread_create(&threads[i], NULL, threadFunction, (void *)id[i]); //aqui o argumento da função é justamente aquele valr q eu dei
         if (rc)
         {
             printf("ERRO; codigo de retorno eh %d\n", rc);
             exit(-1);
         }
     }
-
-    for (i = 0; i < NUM_ARQ; i++)
+    
+    int j;
+    for (j = 0; j < t; j++)
     {
-        free(arqViagens[i]);
+        pthread_join(threads[j], NULL);
     }
 
-    return 0;
+    // for (i = 0; i < NUM_ARQ; i++)
+    // {
+    //     free(arqViagens[i]);
+    // }
+
+    pthread_exit(NULL);
 }
 
-void threadFunction(void *id)
+void *threadFunction(void *id)
 {
     int i, k, sair = 0;
-    
-    int arqAtual = ((int *) id);
-    
+    int arqAtual = (*(int *) id);
+    //printf("Criei thread %d\n", arqAtual);
     for (k = arqAtual; k < NUM_ARQ; k += t) //entre os arquivos
     {
+        //printf ("passei daqui\n");
         for(i = 0; i < qtdViagens; i++) //pra cada arquivo
         {
             //tenta acessar a linha
-            int linha = arqViagens[k][i].linha - '1'; //transformando o char para o seu equivalente em int
+            //printf ("colecei a ler arquivo.\n");
+            //printf("LINHA É: %d\n", arqViagens[k][i].linha);
+            int linha = arqViagens[k][i].linha; //transformando o char para o seu equivalente em int
+            //printf("linha = %d\n", linha);
             if (linha <= l)
             {
+                //printf("entrei if linha = %c\n", arqViagens[k][i].linha);
                 pthread_mutex_lock(&mutex[linha]);        //se não, dormir até conseguir entrar
-                //entrei no mutex
-                    //altera a tela
-                    printf("%s", arqViagens[k][i].texto); //adequar a linha
-                    // espera 2 segundos e libera o mutex
-
+                //printf ("bloqueei mutex\n");
+                //printf ("\033[%d;0H", linha);//mover cursor para a respectiva linha
+                int cor = 40 + linha;
+                //printf ("cor deste INFERNO: %d\n", cor);
+                //if (cor == 47) printf ("\033[22;30m");
+                //printf("\033[22;%dm", cor); //colorir a linha
+                //printf("%s", arqViagens[k][i].texto);
+                //sleep(2); // espera 2 segundos e libera o mutex
                 pthread_mutex_unlock(&mutex[linha]);
             }
         }
-        //terminei de ler arquivo
-
     }
-    
-    //tentar fazer a alteração
-
-    
-    //caso o arquivo termine, alterar acabeiArquivo para 1;
-    // receber essa resposta na main, caso em algum momento uma thread terminar de ler o arquivo dela, passa para outro arquivo
+    pthread_exit(NULL);
 }
 
 void lerArquivos()
@@ -131,7 +161,7 @@ void lerArquivos()
 
             rewind(arquivo);
             int k = 0;
-            char c, texto[28], linhas[20]; //criação de variáveis auxiliares
+            char c, texto[28]; //criação de variáveis auxiliares
 
             while ((c = fgetc(arquivo)) != EOF)
             {
@@ -150,6 +180,7 @@ void lerArquivos()
                 {
                     fread(texto, sizeof(char), 27, arquivo); //lê cada nova viagem e guarda --> 27 = 26msg + \n
                     strcpy(arqViagens[i][qtdViagens].texto, texto);
+                    
                     qtdViagens++;
                 }
             }
