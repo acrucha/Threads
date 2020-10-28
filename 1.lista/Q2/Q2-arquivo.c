@@ -10,7 +10,7 @@ typedef struct Viagens
 
 int main()
 {
-    int n = 2, sair = 0;
+    int n = 2, sair = 0; 
     int i;
     Viagens *arqViagens[n];
 
@@ -18,6 +18,8 @@ int main()
 
     *(nomesArq + 0) = "g.txt";
     *(nomesArq + 1) = "f.txt";
+    // *(nomesArq + 2) = "d.txt";
+    // *(nomesArq + 3) = "e.txt";
 
     for (i = 0; i < n; i++)
     {
