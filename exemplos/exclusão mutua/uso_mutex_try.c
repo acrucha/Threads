@@ -10,8 +10,9 @@ void *inc(void *threadid)
 {
   int i = 0;
   for (; i < 9000000; i++)
-  {//espera ocupada!
+  {//espera ocupada! 
     while (pthread_mutex_trylock(&mymutex) != 0); //retorna 0 se conseguiu bloquear, então deixo ele num loop infinito até ele conseguir
+    //pthread_mutex_lock (&mymutex); //tentei e durmo até me acordarem
     contador++;
     pthread_mutex_unlock(&mymutex); 
   }
