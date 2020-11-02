@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <pthread.h>
 #define B 8           //tamanho do buffer
-#define C 2           //quantidade de threads consumidoras
-#define P 3           //quantidade de threads produtoras
+#define C 4           //quantidade de threads consumidoras
+#define P 1           //quantidade de threads produtoras
 #define NUM_BUFFERS 1 //quantidade de buffers
 #define NUM_ITEMS 100
 
@@ -38,7 +38,7 @@ int main()
   int i, j, rc;
 
   BlockingQueue *Q = newBlockingQueue(B); //vai criar uma Q do tamanho B e vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
-  printf("head = %d", Q->head);
+  //printf("head = %d", Q->head);
   for (j = 0; j < NUM_BUFFERS; j++)       //roda pra cada um dos buffers
   {
     for (i = 0; i < P; i++)
@@ -60,6 +60,7 @@ int main()
       }
     }
   }
+  //fazer um for aqui
   for (i = 0; i < P; i++) //fazer a main esperar pela conclusão das produtoras e consumidoras:
   {
     pthread_join(produtoras[i], NULL);
@@ -74,10 +75,11 @@ int main()
 BlockingQueue *newBlockingQueue(unsigned int SizeBuffer)                              // vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
 {                                                                                     //acho q ta certo ja isso
   BlockingQueue *fila = (BlockingQueue *)malloc(sizeof(BlockingQueue) * NUM_BUFFERS); //eu aloco 1 unidade de fila
+  //colocar um for p mais de um buffer
+  fila->last = NULL;
   fila->head = fila->last; //primeiro da fila bloqueante
-  fila->last = NULL;                                                            //ultimo da fila bloqueante
-  fila->sizeBuffer = SizeBuffer;
-  fila->statusBuffer = 0; //o buffer vazio inicialmente
+  fila[0].sizeBuffer = SizeBuffer;
+  fila[0].statusBuffer = 0; //o buffer vazio inicialmente
   return fila;
 }
 
@@ -86,7 +88,7 @@ void *inserir(void *Q) //inserir elemento no buffer e pode ser que de errado do 
   BlockingQueue *lista = (BlockingQueue *)Q;
   printf("%d\n", lista->sizeBuffer);
   int i;
-  for (i = 0; i < NUM_ITEMS * 3; i++)
+  for (i = 0; i < NUM_ITEMS * C; i++)
   {
     colocar(lista);
     printf("Produzi : %d\n", i);
@@ -96,7 +98,7 @@ void *inserir(void *Q) //inserir elemento no buffer e pode ser que de errado do 
 
 void colocar(BlockingQueue *Q) //vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
 {
-  puts("entrei em colocar");
+  //puts("entrei em colocar");
   pthread_mutex_lock(&mutex);    //bloqueio: ninguém pode usar
   while ((Q->statusBuffer) == B) //se tiver cheio, não posso encher
   {                              //dentro de um while pra rechecar, pra evitar que acorde sem ser verdade
@@ -105,8 +107,8 @@ void colocar(BlockingQueue *Q) //vai dar errado do jeito q ta aqui se NUM_BUFFER
   }
   int newValue = Q->statusBuffer;
   putBlockingQueue(Q, newValue);
-  printf("oi\n");
-  printf("head = %d", Q->head);
+  //printf("oi\n");
+  //printf("head = %d", Q->head);
   if ((Q->statusBuffer) == 1) //se não estiver mais vazio, mando acordar todos consumidores dizendo que eles podem agir
   {
     pthread_cond_broadcast(&cheio); // acordo todas as outras threads que não esta mais vazia
@@ -116,16 +118,28 @@ void colocar(BlockingQueue *Q) //vai dar errado do jeito q ta aqui se NUM_BUFFER
 
 void putBlockingQueue(BlockingQueue *Q, int newValue) //vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
 {
-  puts("entrei em putBlockingQueue");
+ // puts("entrei em putBlockingQueue");
   Elem *newElem = (Elem *)malloc(sizeof(Elem) * 1); //criei elemento
-  printf("last = %d\n", Q->last);
-  Elem *aux = Q->last; //da primeiravez é NULL
-  newElem->value = newValue;
-  newElem->prox = NULL;
-  Q->last = newElem;
-  printf("newValue = %d\n", newElem->value);
-  (Q->statusBuffer)++; // incrementando tamanho atual do buffer
-  printf("head = %d", Q->head);
+  Elem *cur = Q->head;
+  if(cur != NULL){
+    while(cur->prox != NULL){
+     // printf("entrei\n");
+      cur = cur->prox;
+    }
+    newElem->value = newValue;
+   // printf("aqui?\n");
+    newElem->prox = NULL;
+   // printf("aaaaaaa\n");
+    cur->prox = newElem;
+   // printf("printaaqui\n");
+    Q->last = newElem;
+  }else{
+    Q->head = newElem;
+    newElem->value = newValue;
+    newElem->prox = NULL;
+    Q->last = newElem;
+  }
+  (Q->statusBuffer)++;
 }
 
 void *retirar(void *Q) //vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
@@ -133,7 +147,7 @@ void *retirar(void *Q) //vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 
   //transforma de void pra estrutura
   int i, v;
   printf("Consumidor\n");
-  for (i = 0; i < NUM_ITEMS * 2; i++)
+  for (i = 0; i < NUM_ITEMS; i++)
   {
     v = pegar(Q);
     printf("\nConsumi %d  \n", v);
@@ -151,7 +165,7 @@ int pegar(BlockingQueue *Q) //vai dar errado do jeito q ta aqui se NUM_BUFFERS f
     pthread_cond_wait(&cheio, &mutex);
   }
   valor = takeBlockingQueue(Q); //recebendo o valor do elemento retirado
-  if ((Q->statusBuffer) == (Q->sizeBuffer) - 1)
+  if ((Q->statusBuffer) == (Q->sizeBuffer) - 1) //saber se tava cheio e eu tirei 1 (acorda produtora agora)
   {
     pthread_cond_signal(&vazio);
   }
@@ -163,14 +177,14 @@ int takeBlockingQueue(BlockingQueue *Q) //vai dar errado do jeito q ta aqui se N
 {
   Elem *prox = (Elem *)malloc(sizeof(Elem) * 1);
   prox = Q->head;
-  printf("head = %d", Q->head);
-  puts("atribui aux ao head");
-  int value = prox->value;
-  puts("salvei o valor");
+  //printf("head = %d", Q->head);
+  //puts("atribui aux ao head");
+  int value = prox->value; //morre aqui
+ // puts("salvei o valor");
   Q->head = prox->prox;
-  puts("salvei quem eh o novo head");
+ // puts("salvei quem eh o novo head");
   (Q->statusBuffer)--; // decrementando tamanho atual do buffer
-  puts("atualizei o buffer");
+ // puts("atualizei o buffer");
   free(prox);
 
   return value;
