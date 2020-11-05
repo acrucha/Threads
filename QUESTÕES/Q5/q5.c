@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define P 10
+#define P 15
 #define linhas 4
 int qtd_threads, threadsAtuais = 0;
 
