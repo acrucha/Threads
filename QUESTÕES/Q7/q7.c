@@ -39,7 +39,7 @@ int main()
         if (rc)
         {
             printf("ERRO\n");
-            exit(-1);
+            exit(-1);.
         }
     }
     for (i = 0; i < qtdThreads; i++)

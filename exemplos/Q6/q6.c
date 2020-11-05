@@ -4,7 +4,7 @@
 #define B 8           //tamanho do buffer
 #define C 4           //quantidade de threads consumidoras
 #define P 1           //quantidade de threads produtoras
-#define NUM_BUFFERS 1 //quantidade de buffers
+#define NUM_BUFFERS 2 //quantidade de buffers
 #define NUM_ITEMS 100
 
 typedef struct elem
@@ -36,14 +36,14 @@ int main()
   pthread_t consumidoras[C]; // criacao três threads consumidoras
   pthread_t produtoras[P];   //criacao uma thread produtora
   int i, j, rc;
-
-  BlockingQueue *Q = newBlockingQueue(B); //vai criar uma Q do tamanho B e vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
+  BlockingQueue *Q[NUM_BUFFERS];
   //printf("head = %d", Q->head);
   for (j = 0; j < NUM_BUFFERS; j++)       //roda pra cada um dos buffers
   {
+    Q[j] = newBlockingQueue(B); //vai criar uma Q do tamanho B e vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
     for (i = 0; i < P; i++)
     {
-      rc = pthread_create(&produtoras[i], NULL, inserir, (void *)&Q[j]);
+      rc = pthread_create(&produtoras[i], NULL, inserir, (void *)Q[j]);
       if (rc)
       {
         printf("ERRO!");
@@ -52,7 +52,7 @@ int main()
     }
     for (i = 0; i < C; i++)
     {
-      rc = pthread_create(&consumidoras[i], NULL, retirar, (void *)&Q[j]);
+      rc = pthread_create(&consumidoras[i], NULL, retirar, (void *)Q[j]);
       if (rc)
       {
         printf("ERRO!");
@@ -60,26 +60,27 @@ int main()
       }
     }
   }
-  //fazer um for aqui
-  for (i = 0; i < P; i++) //fazer a main esperar pela conclusão das produtoras e consumidoras:
-  {
-    pthread_join(produtoras[i], NULL);
-  }
-  for (i = 0; i < C; i++)
-  {
-    pthread_join(consumidoras[i], NULL);
+  for(j=0;j<NUM_BUFFERS;j++){
+    for (i = 0; i < P; i++) //fazer a main esperar pela conclusão das produtoras e consumidoras:
+    {
+      pthread_join(produtoras[i], NULL);
+    }
+    for (i = 0; i < C; i++)
+    {
+      pthread_join(consumidoras[i], NULL);
+    }
   }
   return 0;
 }
 
 BlockingQueue *newBlockingQueue(unsigned int SizeBuffer)                              // vai dar errado do jeito q ta aqui se NUM_BUFFERS for > 1
 {                                                                                     //acho q ta certo ja isso
-  BlockingQueue *fila = (BlockingQueue *)malloc(sizeof(BlockingQueue) * NUM_BUFFERS); //eu aloco 1 unidade de fila
+  BlockingQueue *fila = (BlockingQueue *)malloc(sizeof(BlockingQueue) * 1); //eu aloco 1 unidade de fila
   //colocar um for p mais de um buffer
   fila->last = NULL;
   fila->head = fila->last; //primeiro da fila bloqueante
-  fila[0].sizeBuffer = SizeBuffer;
-  fila[0].statusBuffer = 0; //o buffer vazio inicialmente
+  fila->sizeBuffer = SizeBuffer;
+  fila->statusBuffer = 0; //o buffer vazio inicialmente
   return fila;
 }
 

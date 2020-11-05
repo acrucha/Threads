@@ -1,9 +1,25 @@
 8
+Consumidor
+Produzi : 0
+Consumidor
+Consumidor
+Consumidor
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+8
+Produzi : 1
 Produzi : 0
 Produzi : 1
 Produzi : 2
 Produzi : 3
+Produzi : 4
+Produzi : 5
+Produzi : 6
+
+Consumi 0  
 Consumidor
+A fila esta vazia!!! Vou de berço...(u.u)
 Consumidor
 Consumidor
 
@@ -14,13 +30,33 @@ Consumi 1
 Consumi 2  
 
 Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 2
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 3
 Produzi : 4
-Consumidor
 Produzi : 5
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+Consumidor
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 7
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
@@ -28,25 +64,114 @@ A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 6
 Produzi : 7
-
-Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 8
 Produzi : 9
 Produzi : 10
 Produzi : 11
 Produzi : 12
 Produzi : 13
+A fila esta cheia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 8
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 1  
+Produzi : 9
+Produzi : 10
+
+Consumi 0  
+Produzi : 11
+
+Consumi 0  
+Produzi : 12
+Produzi : 13
+
+Consumi 5  
 Produzi : 14
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 6  
+Produzi : 15
+
+Consumi 1  
+Produzi : 16
+Produzi : 17
+Produzi : 18
+Produzi : 19
+Produzi : 20
+Produzi : 21
+Produzi : 22
+A fila esta cheia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 7  
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 4  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 23
+Produzi : 24
+Produzi : 25
+Produzi : 26
+Produzi : 27
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 14
+Produzi : 15
+Produzi : 16
 
 Consumi 0  
 
 Consumi 1  
 
 Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 17
+
+Consumi 0  
+Produzi : 18
+Produzi : 19
+Produzi : 20
+Produzi : 21
+Produzi : 22
+Produzi : 23
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 5  
+
+Consumi 2  
+
+Consumi 6  
+Produzi : 24
 
 Consumi 3  
 
@@ -56,27 +181,9 @@ Consumi 5
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 15
-Produzi : 16
-Produzi : 17
-Produzi : 18
-Produzi : 19
-Produzi : 20
-Produzi : 21
+Consumi 7  
 
-Consumi 0  
-
-Consumi 0  
-Produzi : 22
-
-Consumi 1  
-
-Consumi 2  
-Produzi : 23
-
-Consumi 3  
+Consumi 7  
 
 Consumi 4  
 
@@ -84,33 +191,58 @@ Consumi 5
 
 Consumi 6  
 
-Consumi 4  
+Consumi 7  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 24
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 25
+Produzi : 26
+Produzi : 27
+Produzi : 28
+Produzi : 29
+Produzi : 30
+Produzi : 31
+Produzi : 32
 
 Consumi 0  
-Produzi : 26
 
 Consumi 1  
-Produzi : 27
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 4  
+
+Consumi 5  
+Produzi : 33
+
+Consumi 6  
+Produzi : 34
+
+Consumi 7  
+Produzi : 35
+
+Consumi 2  
+
+Consumi 1  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 36
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
-
-Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 28
-A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 29
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 30
 Produzi : 31
 Produzi : 32
@@ -118,357 +250,838 @@ Produzi : 32
 Consumi 0  
 Produzi : 33
 
+Consumi 2  
+
+Consumi 0  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+
 Consumi 1  
+Produzi : 37
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 34
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 35
 
-Consumi 2  
-
-Consumi 2  
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 36
-
-Consumi 2  
-
-Consumi 3  
-
-Consumi 3  
-
-Consumi 2  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 37
 Produzi : 38
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 39
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 40
-
-Consumi 0  
 Produzi : 41
 Produzi : 42
+Produzi : 43
+A fila esta cheia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 38
+
+Consumi 0  
 
 Consumi 0  
 
 Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 43
 Produzi : 44
 
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-Produzi : 45
-
-Consumi 0  
-Produzi : 46
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 47
-
-Consumi 0  
-Produzi : 48
-Produzi : 49
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 50
-Produzi : 51
-
-Consumi 0  
-Produzi : 52
-
-Consumi 0  
-Produzi : 53
-
-Consumi 0  
-Produzi : 54
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 55
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 56
-
-Consumi 0  
-Produzi : 57
-Produzi : 58
-Produzi : 59
-Produzi : 60
-Produzi : 61
-Produzi : 62
-
-Consumi 0  
-
-Consumi 1  
-
 Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 3  
 
 Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 63
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 64
-Produzi : 65
-Produzi : 66
-Produzi : 67
-
-Consumi 0  
-Produzi : 68
-
-Consumi 1  
-
-Consumi 2  
-Produzi : 69
-
-Consumi 2  
-Produzi : 70
-
-Consumi 2  
-
-Consumi 0  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 71
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 72
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 73
-Produzi : 74
-Produzi : 75
-Produzi : 76
-Produzi : 77
-Produzi : 78
-Produzi : 79
-Produzi : 80
-Produzi : 81
-
-Consumi 0  
-
-Consumi 2  
-
-Consumi 1  
-
-Consumi 3  
 
 Consumi 5  
 
 Consumi 6  
 
 Consumi 7  
+
+Consumi 7  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 39
+Produzi : 40
+Produzi : 41
+Produzi : 42
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 45
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 46
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 47
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 43
+Produzi : 44
+Produzi : 45
+Produzi : 46
+
+Consumi 0  
+Produzi : 47
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 48
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 48
+Produzi : 49
+Produzi : 50
+
+Consumi 0  
+Produzi : 51
+
+Consumi 0  
+Produzi : 52
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 49
+Produzi : 50
+Produzi : 51
+Produzi : 52
+Produzi : 53
+Produzi : 54
+Produzi : 55
+Produzi : 56
+Produzi : 57
+
+Consumi 0  
+A fila esta cheia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 58
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 59
+Produzi : 60
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 2  
+
+Consumi 3  
+Produzi : 61
+Produzi : 62
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 4  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 7  
+Produzi : 63
+
+Consumi 6  
+Produzi : 64
+
+Consumi 7  
+Produzi : 53
+Produzi : 54
+Produzi : 55
+Produzi : 56
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 57
+
+Consumi 7  
+Produzi : 65
+Produzi : 58
+Produzi : 59
+Produzi : 60
+Produzi : 61
+Produzi : 62
+Produzi : 63
+Produzi : 64
+Produzi : 65
+
+Consumi 0  
+Produzi : 66
+
+Consumi 0  
+
+Consumi 3  
+
+Consumi 4  
+Produzi : 67
+
+Consumi 5  
+
+Consumi 1  
+
+Consumi 6  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+Produzi : 66
+
+Consumi 6  
+Produzi : 68
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 69
+
+Consumi 0  
+Produzi : 67
+Produzi : 70
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 71
+
+Consumi 0  
+
+Consumi 6  
+Produzi : 72
+Produzi : 73
+
+Consumi 7  
+Produzi : 74
+
+Consumi 6  
+
+Consumi 0  
+Produzi : 75
+Produzi : 76
+
+Consumi 5  
+Produzi : 77
+
+Consumi 6  
+Produzi : 78
 
 Consumi 4  
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
+
+Consumi 4  
+
+Consumi 0  
+
+Consumi 1  
+Produzi : 68
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 79
+Produzi : 80
+Produzi : 81
 Produzi : 82
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 83
+Produzi : 69
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+
+Consumi 4  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 5  
+
+Consumi 6  
+Produzi : 84
+
+Consumi 7  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 85
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 86
+Produzi : 87
+Produzi : 88
+Produzi : 89
+Produzi : 90
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+Produzi : 91
+
+Consumi 0  
+Produzi : 70
+Produzi : 71
+
+Consumi 0  
+Produzi : 72
+Produzi : 73
+Produzi : 74
+Produzi : 75
+Produzi : 76
+Produzi : 77
+
+Consumi 2  
+Produzi : 78
+
+Consumi 3  
+Produzi : 92
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 4  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 4  
+Produzi : 79
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 93
+Produzi : 94
+Produzi : 95
+Produzi : 96
+Produzi : 97
+Produzi : 98
+Produzi : 99
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 2  
+Produzi : 100
+
+Consumi 3  
+Produzi : 101
+
+Consumi 1  
+
+Consumi 4  
+Produzi : 102
+Produzi : 103
+
+Consumi 5  
+
+Consumi 5  
+Produzi : 80
+
+Consumi 3  
+Produzi : 81
+
+Consumi 3  
+Produzi : 82
+
+Consumi 3  
+
+Consumi 6  
+Produzi : 104
+
+Consumi 7  
+
+Consumi 7  
+
+Consumi 2  
+
+Consumi 4  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 3  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 5  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 105
 Produzi : 83
 
-Consumi 0  
+Consumi 5  
 A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 84
-Produzi : 85
-Produzi : 86
+Produzi : 106
+Produzi : 107
 
 Consumi 0  
+Produzi : 108
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 84
+Produzi : 109
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 85
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+Produzi : 86
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 110
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 87
+
+Consumi 0  
+Produzi : 111
+Produzi : 112
+Produzi : 113
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
 Produzi : 88
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 114
+A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 1  
+Consumi 0  
+Produzi : 89
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 115
+Produzi : 116
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 1  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 89
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 117
+Produzi : 118
+Produzi : 119
+Produzi : 120
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 90
 Produzi : 91
 Produzi : 92
 Produzi : 93
 Produzi : 94
+
+Consumi 0  
 Produzi : 95
 
 Consumi 0  
 
 Consumi 0  
-Produzi : 96
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 1  
+Produzi : 121
+
+Consumi 2  
+Produzi : 122
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 4  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 96
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 97
+Produzi : 98
+Produzi : 99
+Produzi : 100
+Produzi : 123
+Produzi : 124
+
+Consumi 0  
+Produzi : 125
+
+Consumi 0  
+Produzi : 126
+
+Consumi 0  
 
 Consumi 2  
 
 Consumi 3  
-
-Consumi 4  
-Produzi : 98
+Produzi : 127
 
 Consumi 1  
 
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+Consumi 1  
+
+Consumi 1  
+Produzi : 101
 
 Consumi 4  
+
+Consumi 1  
+
+Consumi 1  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 99
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 128
 
 Consumi 0  
-Produzi : 100
-Produzi : 101
+Produzi : 129
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 102
+
+Consumi 0  
 Produzi : 103
 Produzi : 104
 
 Consumi 0  
 Produzi : 105
 
-Consumi 1  
-
-Consumi 2  
-
-Consumi 2  
+Consumi 0  
 
 Consumi 1  
-
-Consumi 3  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 106
+A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 3  
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 130
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 131
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 107
 A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 132
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 133
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 134
 Produzi : 108
 
 Consumi 0  
-Produzi : 109
-Produzi : 110
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 135
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 136
+Produzi : 137
+Produzi : 138
+Produzi : 139
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 140
+Produzi : 141
+Produzi : 142
+Produzi : 143
+Produzi : 144
+
+Consumi 0  
+
+Consumi 0  
 
 Consumi 1  
+Produzi : 109
+Produzi : 110
+Produzi : 111
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 2  
-Produzi : 111
-A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 3  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 145
 
-Consumi 0  
+Consumi 6  
+
+Consumi 7  
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 112
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 113
 Produzi : 114
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 115
-
-Consumi 0  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 146
 Produzi : 116
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 117
 A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 118
+Produzi : 119
 
 Consumi 0  
-Produzi : 119
 Produzi : 120
 Produzi : 121
-Produzi : 122
-Produzi : 123
-Produzi : 124
-Produzi : 125
 
 Consumi 0  
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 147
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 122
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 148
+Produzi : 149
+Produzi : 150
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 123
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 124
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 151
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 152
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 125
+Produzi : 153
 Produzi : 126
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 154
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 155
+
+Consumi 0  
 Produzi : 127
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 156
+Produzi : 157
+Produzi : 158
+Produzi : 159
+Produzi : 160
+Produzi : 161
+Produzi : 162
 
 Consumi 1  
 
@@ -481,22 +1094,47 @@ Consumi 4
 Consumi 5  
 
 Consumi 6  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 1  
+Consumi 0  
 
-Consumi 2  
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 163
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
+Produzi : 164
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 128
 Produzi : 129
 Produzi : 130
 Produzi : 131
 Produzi : 132
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 165
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 3  
+
+Consumi 4  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 133
+Produzi : 134
+Produzi : 135
+Produzi : 136
 
 Consumi 0  
 
@@ -505,187 +1143,368 @@ Consumi 1
 Consumi 2  
 
 Consumi 3  
-Produzi : 133
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 134
-
-Consumi 0  
-Produzi : 135
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-Produzi : 136
-A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 137
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 138
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 139
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 140
-
-Consumi 0  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 141
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 142
+
+Consumi 1  
 Produzi : 143
-Produzi : 144
-Produzi : 145
-
-Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
-Produzi : 146
-Produzi : 147
-Produzi : 148
-
-Consumi 0  
-
-Consumi 0  
-
-Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 2  
 A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 149
-Produzi : 150
-
-Consumi 0  
-Produzi : 151
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 152
-Produzi : 153
-Produzi : 154
-Produzi : 155
-Produzi : 156
-Produzi : 157
-Produzi : 158
-
-Consumi 1  
-Produzi : 159
-
-Consumi 2  
-
-Consumi 3  
-Produzi : 160
-
-Consumi 4  
-
-Consumi 4  
-
-Consumi 4  
-
-Consumi 4  
-Produzi : 161
-
-Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 162
-Produzi : 163
-Produzi : 164
-Produzi : 165
-
-Consumi 0  
 Produzi : 166
+
+Consumi 0  
 Produzi : 167
 Produzi : 168
-Produzi : 169
-Produzi : 170
-A fila esta cheia!!! Vou de berço...(u.u)
 
 Consumi 0  
-Produzi : 171
+Produzi : 169
+
+Consumi 0  
+Produzi : 170
 
 Consumi 1  
-Produzi : 172
 
 Consumi 2  
+Produzi : 171
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 144
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 3  
+Produzi : 172
 
-Consumi 4  
+Consumi 0  
+Produzi : 145
+A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 5  
-
-Consumi 7  
-
-Consumi 6  
-
-Consumi 7  
-
-Consumi 7  
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 173
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 7  
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 174
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 175
 
 Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 146
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 147
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 148
 Produzi : 176
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 149
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 150
+Produzi : 151
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
 Produzi : 177
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 152
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 153
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 178
 Produzi : 179
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 180
 Produzi : 181
 Produzi : 182
-Produzi : 183
-Produzi : 184
 
 Consumi 0  
+Produzi : 154
+Produzi : 155
+
+Consumi 0  
+Produzi : 183
+
+Consumi 1  
+Produzi : 184
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 185
+Produzi : 186
+Produzi : 187
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 6  
+
+Consumi 7  
+Produzi : 188
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 156
+Produzi : 157
+Produzi : 158
+Produzi : 159
+Produzi : 160
+Produzi : 161
+Produzi : 162
+Produzi : 163
+
+Consumi 0  
+
+Consumi 7  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 164
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 189
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 190
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 191
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 192
+Produzi : 193
+Produzi : 194
+Produzi : 195
+Produzi : 196
+Produzi : 197
+Produzi : 198
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 199
+Produzi : 200
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 7  
+
+Consumi 7  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 165
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 166
+Produzi : 167
+Produzi : 168
+Produzi : 169
+Produzi : 170
+Produzi : 171
+Produzi : 172
+Produzi : 173
+Produzi : 201
+Produzi : 202
+Produzi : 203
+Produzi : 204
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 2  
+Produzi : 205
+
+Consumi 5  
+Produzi : 206
+Produzi : 207
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 208
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 209
+
+Consumi 0  
+Produzi : 210
+
+Consumi 0  
+Produzi : 211
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 7  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 174
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 175
+Produzi : 176
+
+Consumi 0  
+Produzi : 177
+
+Consumi 6  
+Produzi : 212
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 178
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 179
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 213
+Produzi : 214
+Produzi : 215
+Produzi : 216
+Produzi : 217
+Produzi : 218
+Produzi : 219
+Produzi : 220
 
 Consumi 0  
 
@@ -697,90 +1516,156 @@ Consumi 3
 
 Consumi 4  
 
-Consumi 6  
-
 Consumi 5  
 
-Consumi 7  
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 180
+Produzi : 181
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 182
+Produzi : 183
+Produzi : 184
 Produzi : 185
-
-Consumi 7  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 186
-
-Consumi 0  
-
-Consumi 0  
 Produzi : 187
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 188
+A fila esta cheia!!! Vou de berço...(u.u)
+Produzi : 221
+Produzi : 222
+Produzi : 223
 
 Consumi 0  
+
+Consumi 1  
+Produzi : 224
+Produzi : 225
+Produzi : 226
+Produzi : 227
+Produzi : 228
+Produzi : 229
+Produzi : 230
+Produzi : 231
+Produzi : 188
+Produzi : 232
+A fila esta cheia!!! Vou de berço...(u.u)
 Produzi : 189
 Produzi : 190
 Produzi : 191
 Produzi : 192
 Produzi : 193
 
+Consumi 3  
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 4  
+
+Consumi 6  
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 2  
+
+Consumi 5  
+
 Consumi 0  
-Produzi : 194
 
 Consumi 1  
 
 Consumi 2  
-Produzi : 195
 
 Consumi 3  
 
 Consumi 4  
+
+Consumi 3  
+
+Consumi 2  
+
+Consumi 3  
+Produzi : 194
+Produzi : 195
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 7  
+
+Consumi 7  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
 Produzi : 196
 
-Consumi 0  
-
-Consumi 2  
-
-Consumi 2  
+Consumi 6  
 Produzi : 197
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 198
 Produzi : 199
-Produzi : 200
-Produzi : 201
-Produzi : 202
 
-Consumi 1  
+Consumi 7  
+Produzi : 200
+
+Consumi 6  
+Produzi : 201
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 202
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 7  
+
+Consumi 7  
+
+Consumi 5  
+
+Consumi 7  
+
+Consumi 7  
+
+Consumi 4  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 6  
 Produzi : 203
 
-Consumi 1  
+Consumi 7  
+A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 0  
+Consumi 7  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 204
 
-Consumi 2  
-
-Consumi 4  
-
-Consumi 4  
-
-Consumi 3  
-
-Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 3  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 205
-A fila esta vazia!!! Vou de berço...(u.u)
+Consumi 0  
 
 Consumi 0  
+Produzi : 205
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 233
+Produzi : 234
+Produzi : 235
+Produzi : 236
+Produzi : 237
+Produzi : 238
+Produzi : 239
+Produzi : 240
+Produzi : 241
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 0  
 Produzi : 206
 Produzi : 207
 Produzi : 208
@@ -789,6 +1674,151 @@ Produzi : 210
 Produzi : 211
 Produzi : 212
 Produzi : 213
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 1  
+Produzi : 214
+Produzi : 215
+Produzi : 216
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 7  
+Produzi : 217
+
+Consumi 4  
+
+Consumi 3  
+
+Consumi 5  
+Produzi : 218
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 6  
+
+Consumi 5  
+
+Consumi 7  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 219
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 220
+Produzi : 221
+Produzi : 222
+
+Consumi 2  
+
+Consumi 6  
+
+Consumi 3  
+
+Consumi 3  
+
+Consumi 4  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 223
+Produzi : 224
+Produzi : 225
+Produzi : 226
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 227
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 228
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 229
+Produzi : 230
+
+Consumi 0  
+Produzi : 231
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 232
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 233
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 234
+Produzi : 235
+Produzi : 236
+Produzi : 237
+Produzi : 238
+Produzi : 239
+Produzi : 240
+Produzi : 241
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
 
 Consumi 0  
 
@@ -798,125 +1828,229 @@ Consumi 2
 
 Consumi 3  
 
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 5  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 214
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 215
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 216
-Produzi : 217
-Produzi : 218
-Produzi : 219
-Produzi : 220
-Produzi : 221
-Produzi : 222
-Produzi : 223
-
-Consumi 0  
-
-Consumi 0  
-
-Consumi 1  
-Produzi : 224
-
-Consumi 3  
-
 Consumi 4  
 
 Consumi 5  
-A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 6  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 2  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 225
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 242
+Produzi : 243
+Produzi : 244
 
 Consumi 0  
-Produzi : 226
-Produzi : 227
-Produzi : 228
-Produzi : 229
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
 
 Consumi 1  
-Produzi : 230
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 245
 
-Consumi 2  
-
-Consumi 2  
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 246
+Produzi : 247
+Produzi : 248
+Produzi : 249
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 250
+Produzi : 251
+Produzi : 252
+Produzi : 253
+Produzi : 254
+Produzi : 255
+Produzi : 256
+Produzi : 257
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 5  
+
+Consumi 4  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 258
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 259
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 260
+Produzi : 261
+Produzi : 262
+Produzi : 263
+Produzi : 264
+Produzi : 265
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 266
+Produzi : 267
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+Produzi : 268
+
+Consumi 3  
+Produzi : 269
+
+Consumi 4  
+
+Consumi 5  
+Produzi : 270
+
+Consumi 6  
+Produzi : 271
+
+Consumi 0  
+
+Consumi 4  
+
+Consumi 4  
 
 Consumi 3  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 231
+
+Consumi 4  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 272
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 232
-
-Consumi 0  
-Produzi : 233
-Produzi : 234
-Produzi : 235
-Produzi : 236
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 273
+Produzi : 274
+Produzi : 275
+Produzi : 276
+Produzi : 277
+Produzi : 278
+Produzi : 279
+Produzi : 280
 
 Consumi 0  
 
 Consumi 1  
-Produzi : 237
+Produzi : 242
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 243
+Produzi : 281
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 244
+
+Consumi 0  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 245
+
+Consumi 5  
+Produzi : 282
+
+Consumi 7  
+Produzi : 283
+
+Consumi 6  
+Produzi : 284
+
+Consumi 4  
 
 Consumi 2  
 
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
+Consumi 6  
+
+Consumi 2  
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 1  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 238
+Produzi : 285
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 286
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 287
+Produzi : 288
+Produzi : 289
+Produzi : 290
+Produzi : 291
 
 Consumi 0  
-Produzi : 239
-
-Consumi 0  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 240
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 241
-
-Consumi 0  
-Produzi : 242
-Produzi : 243
-Produzi : 244
-Produzi : 245
 Produzi : 246
 Produzi : 247
+
+Consumi 0  
 Produzi : 248
 
 Consumi 0  
@@ -925,7 +2059,29 @@ Produzi : 249
 Consumi 1  
 
 Consumi 0  
+
+Consumi 0  
 Produzi : 250
+Produzi : 251
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+Produzi : 292
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 2  
+Produzi : 293
+Produzi : 252
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 3  
 
@@ -933,96 +2089,161 @@ Consumi 4
 
 Consumi 5  
 
-Consumi 5  
-
-Consumi 5  
-
-Consumi 5  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 251
-
 Consumi 2  
-Produzi : 252
+
+Consumi 4  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 294
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 253
 Produzi : 254
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 295
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 255
 Produzi : 256
+Produzi : 257
+Produzi : 258
+Produzi : 259
+Produzi : 260
+Produzi : 261
 
 Consumi 0  
-Produzi : 257
+Produzi : 262
+Produzi : 263
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
 
 Consumi 1  
+Produzi : 296
 
 Consumi 2  
-Produzi : 258
 
 Consumi 0  
 
 Consumi 3  
+Produzi : 297
 
-Consumi 3  
-A fila esta vazia!!! Vou de berço...(u.u)
+Consumi 4  
 
-Consumi 3  
+Consumi 5  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 298
+
+Consumi 0  
+
+Consumi 6  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 299
+
+Consumi 0  
+Produzi : 300
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 259
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 260
-
-Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 261
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 262
-
-Consumi 0  
-Produzi : 263
 Produzi : 264
 Produzi : 265
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 266
-
-Consumi 0  
 Produzi : 267
 
 Consumi 0  
 
-Consumi 2  
+Consumi 1  
+Produzi : 268
+Produzi : 301
 
-Consumi 2  
+Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 302
 
 Consumi 1  
 
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 268
-A fila esta vazia!!! Vou de berço...(u.u)
+Consumi 2  
+Produzi : 303
+Produzi : 304
+
+Consumi 3  
 Produzi : 269
 
 Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
 Produzi : 270
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 305
+Produzi : 306
+Produzi : 307
+Produzi : 308
+Produzi : 309
+Produzi : 310
+Produzi : 311
+Produzi : 312
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 271
 
 Consumi 0  
-Produzi : 272
-
-Consumi 0  
-
-Consumi 0  
-Produzi : 273
 A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 272
+Produzi : 273
 Produzi : 274
 Produzi : 275
 Produzi : 276
@@ -1030,418 +2251,458 @@ Produzi : 277
 Produzi : 278
 
 Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 279
 Produzi : 280
-
-Consumi 1  
 Produzi : 281
+Produzi : 282
+A fila esta cheia!!! Vou de berço...(u.u)
 
 Consumi 2  
-Produzi : 282
+
+Consumi 1  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 283
+A fila esta cheia!!! Vou de berço...(u.u)
+Produzi : 313
 
 Consumi 3  
-Produzi : 283
+Produzi : 314
+Produzi : 315
+Produzi : 316
+Produzi : 317
+Produzi : 318
+Produzi : 319
 
 Consumi 0  
 
 Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 6  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 7  
+
+Consumi 7  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 320
+Produzi : 321
+Produzi : 322
+Produzi : 323
+
+Consumi 2  
+Produzi : 324
+
+Consumi 3  
+
+Consumi 4  
+Produzi : 325
+
+Consumi 3  
+Produzi : 326
+Produzi : 327
+Produzi : 328
+
+Consumi 1  
+A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 4  
+
+Consumi 7  
 Produzi : 284
-
-Consumi 5  
-
-Consumi 5  
-
-Consumi 5  
-
-Consumi 5  
-
-Consumi 5  
-
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 285
+Produzi : 286
+Produzi : 287
+Produzi : 288
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
 
 Consumi 5  
-Produzi : 286
 
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 287
+Consumi 6  
 
-Consumi 0  
-Produzi : 288
+Consumi 5  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 7  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 5  
+Produzi : 329
 Produzi : 289
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 330
+Produzi : 331
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 332
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 333
+Produzi : 334
+Produzi : 335
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 336
+Produzi : 337
+Produzi : 338
+Produzi : 339
+Produzi : 340
+Produzi : 341
+Produzi : 342
+A fila esta cheia!!! Vou de berço...(u.u)
 Produzi : 290
+
+Consumi 0  
 Produzi : 291
+
+Consumi 1  
 Produzi : 292
 Produzi : 293
 
 Consumi 0  
+Produzi : 343
+
+Consumi 1  
 Produzi : 294
+
+Consumi 2  
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 3  
+
+Consumi 2  
+
+Consumi 4  
+Produzi : 344
+
+Consumi 5  
+Produzi : 345
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 6  
+
+Consumi 7  
+Produzi : 346
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 295
+
+Consumi 7  
+
+Consumi 4  
 Produzi : 296
-A fila esta cheia!!! Vou de berço...(u.u)
+
+Consumi 4  
+Produzi : 347
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 348
+Produzi : 297
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 298
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 349
+
+Consumi 0  
+Produzi : 350
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 299
+Produzi : 300
+
+Consumi 0  
+Produzi : 301
 
 Consumi 0  
 
 Consumi 1  
-
-Consumi 2  
-Produzi : 297
-Produzi : 298
-
-Consumi 4  
-Produzi : 299
-
-Consumi 3  
-
-Consumi 6  
-Produzi : 300
-Produzi : 301
 Produzi : 302
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
 Produzi : 303
-
-Consumi 7  
-
-Consumi 7  
 Produzi : 304
-
-Consumi 5  
-
-Consumi 4  
-
-Consumi 5  
-
-Consumi 6  
-
-Consumi 6  
-
-Consumi 5  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 5  
-
-Consumi 6  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 305
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 306
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 307
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 308
 
 Consumi 0  
 Produzi : 309
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 310
-A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
 Produzi : 311
 
-Consumi 0  
-Produzi : 312
-Produzi : 313
-Produzi : 314
-Produzi : 315
-
-Consumi 0  
-Produzi : 316
-
-Consumi 1  
-Produzi : 317
-
-Consumi 0  
-
 Consumi 2  
-
-Consumi 2  
-Produzi : 318
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 2  
-
-Consumi 1  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 319
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 320
-
-Consumi 0  
-Produzi : 321
-
-Consumi 0  
-Produzi : 322
-Produzi : 323
-
-Consumi 0  
-Produzi : 324
-Produzi : 325
-Produzi : 326
-
-Consumi 0  
-Produzi : 327
-
-Consumi 1  
+Produzi : 351
+Produzi : 352
+Produzi : 353
+Produzi : 354
+Produzi : 355
+Produzi : 356
+Produzi : 357
+Produzi : 358
+A fila esta cheia!!! Vou de berço...(u.u)
 
 Consumi 3  
 
+Consumi 4  
+
+Consumi 5  
+
+Consumi 5  
+
+Consumi 5  
+
+Consumi 0  
+
+Consumi 2  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 5  
+
+Consumi 6  
+
+Consumi 7  
+
+Consumi 6  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+Produzi : 359
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 312
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 360
+Produzi : 313
+Produzi : 361
+Produzi : 314
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 315
+Produzi : 316
+
+Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 0  
+
 Consumi 2  
 A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 317
+Produzi : 318
+Produzi : 362
+Produzi : 319
+Produzi : 363
+
+Consumi 0  
+Produzi : 320
+Produzi : 364
+
+Consumi 2  
 
 Consumi 1  
 A fila esta vazia!!! Vou de berço...(u.u)
 
+Consumi 3  
+
+Consumi 3  
+
+Consumi 4  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 365
+Produzi : 366
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 367
+Produzi : 368
+Produzi : 369
+Produzi : 370
+Produzi : 371
+
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 372
+
+Consumi 0  
+
+Consumi 0  
+Produzi : 373
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 321
+Produzi : 322
+Produzi : 323
+Produzi : 324
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 374
+Produzi : 375
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 325
+Produzi : 326
+Produzi : 327
 Produzi : 328
 
 Consumi 0  
+
+Consumi 0  
+
+Consumi 1  
+
+Consumi 2  
+
+Consumi 3  
 A fila esta vazia!!! Vou de berço...(u.u)
 A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 376
+
+Consumi 0  
+Produzi : 377
+
+Consumi 1  
+
+Consumi 0  
 Produzi : 329
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 378
 Produzi : 330
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 379
 Produzi : 331
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 380
+
+Consumi 2  
+
+Consumi 1  
+Produzi : 381
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 332
 
 Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
 Produzi : 333
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 334
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 335
-Produzi : 336
-Produzi : 337
-Produzi : 338
-Produzi : 339
-
-Consumi 0  
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 2  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 1  
 A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 340
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 341
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 342
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 343
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 344
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 345
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 346
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 347
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 348
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 349
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 350
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 351
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 352
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 353
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 354
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 355
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 356
-Produzi : 357
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-Produzi : 358
-
-Consumi 0  
-Produzi : 359
-
-Consumi 0  
-Produzi : 360
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 361
-Produzi : 362
-Produzi : 363
-Produzi : 364
-Produzi : 365
-Produzi : 366
-
-Consumi 0  
-Produzi : 367
-
-Consumi 0  
-
-Consumi 1  
-Produzi : 368
-
-Consumi 3  
-Produzi : 369
-
-Consumi 4  
-Produzi : 370
-
-Consumi 5  
-
-Consumi 2  
-Produzi : 371
-Produzi : 372
-Produzi : 373
-
-Consumi 3  
-
-Consumi 3  
-
-Consumi 3  
-
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 3  
-
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 374
-
-Consumi 0  
-A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 375
-Produzi : 376
-Produzi : 377
-Produzi : 378
-Produzi : 379
-Produzi : 380
-Produzi : 381
-
-Consumi 0  
-
-Consumi 1  
-
-Consumi 2  
-
-Consumi 3  
-
-Consumi 4  
-A fila esta vazia!!! Vou de berço...(u.u)
-
-Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 382
 
@@ -1449,54 +2710,150 @@ Consumi 0
 Produzi : 383
 
 Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 334
+Produzi : 335
+Produzi : 336
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 384
-
-Consumi 0  
 Produzi : 385
-
-Consumi 0  
-
-Consumi 0  
 Produzi : 386
 A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+
+Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 337
 Produzi : 387
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 338
+
+Consumi 0  
+Produzi : 339
+
+Consumi 0  
+Produzi : 340
+
+Consumi 0  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 1  
+
+Consumi 1  
+
+Consumi 2  
+A fila esta vazia!!! Vou de berço...(u.u)
 Produzi : 388
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 341
+A fila esta vazia!!! Vou de berço...(u.u)
+
+Consumi 0  
+Produzi : 342
+
+Consumi 0  
 Produzi : 389
 Produzi : 390
 
+Consumi 0  
+Produzi : 391
+Produzi : 343
+
 Consumi 1  
 
-Consumi 2  
-
-Consumi 3  
+Consumi 0  
 
 Consumi 0  
 A fila esta vazia!!! Vou de berço...(u.u)
-Produzi : 391
-Produzi : 392
-Produzi : 393
-Produzi : 394
-Produzi : 395
-Produzi : 396
-Produzi : 397
-Produzi : 398
+Produzi : 344
+Produzi : 345
+Produzi : 346
+Produzi : 347
+Produzi : 348
+Produzi : 349
 
 Consumi 0  
-Produzi : 399
+Produzi : 350
+
+Consumi 0  
+Produzi : 351
 
 Consumi 1  
-
-Consumi 2  
-
-Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
 
 Consumi 4  
 
 Consumi 5  
 
-Consumi 6  
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
 
-Consumi 7  
+Consumi 2  
 
-Consumi 7  
+Consumi 3  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 392
+
+Consumi 0  
+Produzi : 393
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 352
+
+Consumi 0  
+Produzi : 353
+
+Consumi 0  
+Produzi : 354
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 394
+Produzi : 395
+Produzi : 396
+Produzi : 397
+Produzi : 398
+Produzi : 399
+
+Consumi 0  
+Produzi : 355
+Produzi : 356
+
+Consumi 0  
+
+Consumi 0  
+Produzi : 357
+
+Consumi 1  
+Produzi : 358
+
+Consumi 1  
+Produzi : 359
+
+Consumi 1  
+Produzi : 360
+
+Consumi 1  
+
+Consumi 0  
+
+Consumi 1  
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+A fila esta vazia!!! Vou de berço...(u.u)
+Produzi : 361
+Produz
