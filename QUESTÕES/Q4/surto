@@ -1,0 +1,55 @@
+- N = número de processadores/número de threads
+- buffer = fila das execuções pendentes de funções
+- agendar execução = uma função que recebe a função a ser executada e os parâmetros dela em uma struct,
+    - não é bloqueante, ou seja, o usuário vai chamar a função, aí eu vou colocar no buffer que ele solicitou
+    - vou mandar um id pra ele, esse id vou usar pra pegar o resultado
+
+    ```c
+    agendarExecucao(funexec, struct parametros)
+    ```
+
+- thread despachante = ela pega as requisições do buffer de agendamento  e gerencia a execução das N threads, ou seja, é uma thread só pra executar threads, se não tiver nada no buffer, ela dorme
+    - ou seja: essa thread vai tentar acessar a região crítica (buffer de agendamento), se o buffer estiver vazio, ela dorme, na hora que eu adicionar uma coisa no buffer tenho que acordar a thread despachante, caso contrário, eu coloco funexec pra funcionar
+    - em funexec, eu vou salvar o resultado em um buffer de resultados e está associada ao id que eu dei ao usuário na hora que eu pedi
+- pegar resultado = parametro é o id, o usuario vai pedir o resultado daquela execução, aí se ainda não tiver lá, o usuário vai aguardar até o resultado chegar
+
+**RESUMINDO:**
+
+1.  **a lógica**
+    1. crio a thread despachante (análogo à consumidor), nela eu: 
+        1. verifico se o buffer de agendamento está vazio
+        2. caso esteja vazio, ela dorme
+        3. caso não esteja, ele vai criar as N threads, e a cada criação delas verificar se está vazio (ou seja todos esses 3 passos vão estar dentro de um loop)
+            1. as N threads:
+                1. vai pegar o primeiro do buffer de agendamento e executar
+                2. executar a operação do usuário e salvar no buffer de resposta
+    2. perguntar ao usuário o que ele quer fazer
+    3. chamo a funcao agendar execução (análogo à produtor)
+        1. salvar a função que ele quer usar e seus argumentos e seu id em um buffer de agendamento 
+        2. devolvo esse id pro usuário
+        3. se o buffer de agendamento estava vazio e agora não está mais, eu acordo a thread despachante (mutex condicional)
+2. **oq vou precisar:**
+    1. mutex condicionais: cheio e vazio para o buffer de agendados e para o buffer do de respostas
+    2. mutex: para o acesso a uma região do buffer
+    3. funções para o usuário escolher (as funções das threads)
+    4. um menuzinho básico
+
+
+
+Olá temos 3 funç~ekfnefefjir
+1. faz isso 
+2. fjeijf
+3. eofjeofj
+
+2
+5 4 //guardo o id
+id
+1
+1 2
+id
+-1
+id 10
+
+
+
+id tal => Resultado: 2

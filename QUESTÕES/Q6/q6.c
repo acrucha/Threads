@@ -55,7 +55,7 @@ int main()
     }
   }
   //fazer a main esperar pela conclusão das produtoras e consumidoras:
-  for (i = 0; i < P; i++) 
+  for (i = 0; i < P; i++)
   {
     pthread_join(produtoras[i], NULL);
   }
@@ -153,7 +153,7 @@ int pegar(BlockingQueue *Q)
     pthread_cond_wait(&cheio, &mutex);
   }
   valor = takeBlockingQueue(Q);                 //recebendo o valor do elemento retirado
-  if ((Q->statusBuffer) == (Q->sizeBuffer) - 1) //se nao esta mais cheio acordar produtores agora
+  if ((Q->statusBuffer) == (Q->sizeBuffer) - 1) //se nao esta mais cheio, acordar produtores
   {
     pthread_cond_signal(&vazio);
   }
