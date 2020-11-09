@@ -79,12 +79,10 @@ BlockingQueue *newBlockingQueue(unsigned int SizeBuffer)
 void *inserir(void *Q) //funcao da thread produtora
 {
   BlockingQueue *lista = (BlockingQueue *)Q;
-  printf("%d\n", lista->sizeBuffer);
   int i;
   while (1)
   {
     colocar(lista);
-    printf("Produzi : %d\n", i);
   }
   pthread_exit(NULL);
 }
@@ -94,7 +92,7 @@ void colocar(BlockingQueue *Q)
   pthread_mutex_lock(&mutex);    //bloqueio: ninguém pode usar o buffer
   while ((Q->statusBuffer) == B) //se tiver cheio, não posso encher
   {                              //dentro de um while pra rechecar
-    printf("A fila esta cheia!!!s\n");
+    printf("A fila esta cheia!\n");
     pthread_cond_wait(&vazio, &mutex); //aguardo a condição ser atendida
   }
   int newValue = Q->statusBuffer;
@@ -134,11 +132,9 @@ void putBlockingQueue(BlockingQueue *Q, int newValue)
 void *retirar(void *Q)
 {
   int i, v;
-  printf("Consumidor\n");
   while (1)
   {
     v = pegar(Q);
-    printf("\nConsumi %d  \n", v);
   }
   pthread_exit(NULL);
 }
@@ -149,7 +145,7 @@ int pegar(BlockingQueue *Q)
   pthread_mutex_lock(&mutex);    //bloqueio pra só um ter acesso
   while ((Q->statusBuffer) == 0) //se tiver vazio, durmo até um produtor me acordar
   {
-    printf("A fila esta vazia!!!s\n");
+    printf("A fila esta vazia!\n");
     pthread_cond_wait(&cheio, &mutex);
   }
   valor = takeBlockingQueue(Q);                 //recebendo o valor do elemento retirado
